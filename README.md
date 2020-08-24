@@ -93,3 +93,4 @@ While deleting branches should be cautionary, now that we've merged our changes 
 ## Summary
 
 Congratulations! In this lab, you practiced using multiple branches in git and merging your changes together. What's more, we also saw that you can use git locally with no remote connection to GitHub if you wish!
+# git_practice
